@@ -102,5 +102,5 @@ if __name__ == '__main__':
         stream.sample()
     else:
         stream.filter(
-                track=['Banco de crédito del Perú', 'BCP', 'Interbank']
+                track=['Innpulsa', 'Innovacion', 'Emprendimiento']
                 )
